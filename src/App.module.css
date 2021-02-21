@@ -1,0 +1,29 @@
+.title {
+  margin: 2rem 0 !important;
+}
+.text {
+  padding: 1rem;
+}
+.text__title {
+  margin-bottom: 1rem !important;
+  color: indianred;
+}
+.subtitle {
+  margin-bottom: 1rem !important;
+}
+.link {
+  text-decoration: none;
+  color: indianred;
+  transition: 0.3s ease;
+}
+.link:hover {
+  color: rgb(9, 174, 250);
+}
+.image {
+  width: 40px;
+  height: 40px;
+}
+.footer {
+  margin: 1rem 0 !important;
+  font-weight: 500;
+}
